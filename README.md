@@ -16,7 +16,7 @@ share some learn to remind
 
 * 数据结构
 
-* Mysql 、 redis 、 kafka 、 Linux的使用
+* Mysql 、 redis 、 kafka 、 Linux 、 Mongodb 的使用
 
 * Map 计数 map[string][int]
 
